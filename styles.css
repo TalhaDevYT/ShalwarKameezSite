@@ -1,0 +1,41 @@
+main{
+    display: grid;
+    place-items: center;
+}
+
+
+main p{
+    font-size: 25px;
+}
+
+nav ul li{
+    display: block;
+    list-style: none;
+    float: left;
+    padding: 1%;
+}
+
+.nav-link:link{
+    color: #BFCDE0 !important;
+    text-decoration: none;
+}
+
+.nav-link:visited{
+    color: #BFCDE0 !important;
+}
+
+.nav-link:hover{
+    color: #3B3355 !important;
+}
+
+header{
+    background-color: #000505;
+}
+
+body{
+    background-color: #5D5D81 !important;
+}
+
+body{
+    color: #FEFCFD !important;
+}
